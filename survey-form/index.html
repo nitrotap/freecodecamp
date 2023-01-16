@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Survey Form</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
@@ -16,9 +17,47 @@
         Thank you for taking the time to help us improve the platform
     </p>
     <form id="survey-form">
-        <input id="name" type="text">
-        <input id="email" type="email">
-        <input id="number" type="number">
+        <label for="name" id="name-label">Name</label>
+        <input id="name" type="text" placeholder="Name" required>
+        <label for="email" id="email-label">Email</label>
+        <input id="email" type="email" placeholder="Email" required>
+        <label for="number" id="number-label">Number</label>
+        <input id="number" type="number" min="0" max="1000" placeholder="1 to 1000" required>
+
+        <label for="dropdown">Choose an option:</label>
+        <select id="dropdown" type="dropdown">
+            <option value="A">Option A</option>
+            <option value="B">Option B</option>
+        </select>
+
+        <fieldset>
+            <legend>Select your favorite civilization:</legend>
+            <input id="Maya" type="radio" name="Maya" value="Maya">
+            <label for="Maya">Maya</label>
+            <input id="Aztec" type="radio" name="Aztec" value="Aztec">
+            <label for="Aztec">Aztec</label>
+        </fieldset>
+
+        <fieldset>
+            <legend>Check your favorite Ages of History:</legend>
+            <input type="checkbox" id="Stone" name="Stone" value="Stone">
+            <label for="Stone">Stone Age</label>
+
+            <input type="checkbox" id="Copper" name="Copper" value="Copper">
+            <label for="Copper">Copper Age</label>
+
+            <input type="checkbox" id="Bronze" name="Bronze" value="Bronze">
+            <label for="Bronze">Bronze Age</label>
+
+            <input type="checkbox" id="Iron" name="Iron" value="Iron">
+            <label for="Iron">Iron Age</label>
+
+        </fieldset>
+
+        <textarea id="comments" name="comments" rows="50" cols="50" placeholder="Enter your comments here"></textarea>
+
+        <button id="submit" type="Submit" name="Submit">Submit</button>
+
 
 
 
