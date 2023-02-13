@@ -13,6 +13,9 @@ nitrotap's freecodecamp.org projects
 
 - [Survey Form Certification](#Survey-Form)
 - [Cat Photos App](#Cat-Photos)
+- [Survey Form Certification](#Survey-Form)
+- [Tribute Page](#Tribute-Page)
+- [Tech Documentation](#Tech-Documentation)
 - [Questions](#Questions)
 - [License](#License)
 
@@ -23,6 +26,14 @@ nitrotap's freecodecamp.org projects
 ## Survey Form
 
 [Survey Form Certification](https://nitrotap.github.io/freecodecamp/survey-form/index.html)
+
+## Tribute Page
+
+[Tribute Page](https://nitrotap.github.io/freecodecamp/tribute-page/index.html)
+
+## Tech Documentation
+
+[Tech Documentation](https://nitrotap.github.io/freecodecamp/tech-docs.html)
 
 ## Questions
 
