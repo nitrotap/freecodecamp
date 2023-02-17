@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        /* nav-bar at top of viewport */
+        nav {
+            position: fixed;
+            top: 0;
+        }
+
+        header {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem;
+        }
+
+        #welcome-section {
+            height: 100vh;
+        }
+
+        @media (min-width: 576px) {
+            .container {
+                max-width: 540px;
+            }
+        }
+
+        @media (min-width: 768px) {
+            .container {
+                max-width: 720px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <nav id="navbar">
+        <ul>
+            <li><a href="#welcome-section">Welcome</a></li>
+            <li><a href="#projects">Projects</a></li>
+        </ul>
+    </nav>
+    <div id="welcome-section">
+        <h1>Welcome to my portfolio</h1>
+    </div>
+    <div id="projects">
+        <div class="project-tile">
+            <a
+                href="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page">Product
+                Landing Page</a>
+
+        </div>
+
+    </div>
+    <div>
+        <a id="profile-link" href="https://github.com/nitrotap" target="_blank" rel="noreferrer">GitHub</a>
+    </div>
+
+</body>
+
+</html>

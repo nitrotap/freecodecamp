@@ -17,6 +17,7 @@ nitrotap's freecodecamp.org projects
 - [Tribute Page](#Tribute-Page)
 - [Tech Documentation](#Tech-Documentation)
 - [Product Landing Page](#Product-Landing-Page)
+- [Portfolio](#Portfolio)
 - [Questions](#Questions)
 - [License](#License)
 
@@ -39,6 +40,10 @@ nitrotap's freecodecamp.org projects
 ## Product Landing Page
 
 [Product Landing Page](https://nitrotap.github.io/freecodecamp/product-landing.html)
+
+## Portfolio
+
+[Portfolio](https://nitrotap.github.io/freecodecamp/portfolio.html)
 
 ## Questions
 
