@@ -16,6 +16,7 @@ nitrotap's freecodecamp.org projects
 - [Survey Form Certification](#Survey-Form)
 - [Tribute Page](#Tribute-Page)
 - [Tech Documentation](#Tech-Documentation)
+- [Product Landing Page](#Product-Landing-Page)
 - [Questions](#Questions)
 - [License](#License)
 
@@ -34,6 +35,10 @@ nitrotap's freecodecamp.org projects
 ## Tech Documentation
 
 [Tech Documentation](https://nitrotap.github.io/freecodecamp/tech-docs.html)
+
+## Product Landing Page
+
+[Product Landing Page](https://nitrotap.github.io/freecodecamp/product-landing.html)
 
 ## Questions
 

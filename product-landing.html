@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        /* nav-bar at top of viewport */
+        nav {
+            position: fixed;
+            top: 0;
+        }
+
+        header {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem;
+        }
+
+        @media (min-width: 576px) {
+            .container {
+                max-width: 540px;
+            }
+        }
+
+        @media (min-width: 768px) {
+            .container {
+                max-width: 720px;
+            }
+        }
+    </style>
+</head>
+
+<body class="container">
+    <header id="header">
+        <img id="header-img" src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg">
+        <nav id="nav-bar">
+            <ul>
+                <li><a class="nav-link" href="#section-1">Section 1</a></li>
+                <li><a class="nav-link" href="#section-2">Section 2</a></li>
+                <li><a class="nav-link" href="#section-3">Section 3</a></li>
+            </ul>
+        </nav>
+
+    </header>
+
+    <video id="video" src=""></video>
+
+    <form id="form" action="https://www.freecodecamp.com/email-submit">
+        <input type="email" id="email" name="email" placeholder="Enter your email address">
+        <input type="submit" id="submit" value="submit">
+    </form>
+
+    <section id="section-1">
+        <h1>Section 1</h1>
+    </section>
+    <section id="section-2">
+        <h1>Section 2</h1>
+    </section>
+    <section id="section-3">
+        <h1>Section 3</h1>
+    </section>
+
+
+
+
+</body>
+
+</html>
