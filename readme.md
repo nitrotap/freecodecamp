@@ -23,27 +23,27 @@ nitrotap's freecodecamp.org projects
 
 ## Cat Photos
 
-[Cat Photos App](https://nitrotap.github.io/freecodecamp/cat-photos/index.html)
+[Cat Photos App](https://nitrotap.github.io/freecodecamp/rwd/cat-photos/index.html)
 
 ## Survey Form
 
-[Survey Form Certification](https://nitrotap.github.io/freecodecamp/survey-form/index.html)
+[Survey Form Certification](https://nitrotap.github.io/freecodecamp/rwd/survey-form/index.html)
 
 ## Tribute Page
 
-[Tribute Page](https://nitrotap.github.io/freecodecamp/tribute-page/index.html)
+[Tribute Page](https://nitrotap.github.io/freecodecamp/rwd/tribute-page/index.html)
 
 ## Tech Documentation
 
-[Tech Documentation](https://nitrotap.github.io/freecodecamp/tech-docs.html)
+[Tech Documentation](https://nitrotap.github.io/freecodecamp/rwd/tech-docs.html)
 
 ## Product Landing Page
 
-[Product Landing Page](https://nitrotap.github.io/freecodecamp/product-landing.html)
+[Product Landing Page](https://nitrotap.github.io/freecodecamp/rwd/product-landing.html)
 
 ## Portfolio
 
-[Portfolio](https://nitrotap.github.io/freecodecamp/portfolio.html)
+[Portfolio](https://nitrotap.github.io/freecodecamp/rwd/portfolio.html)
 
 ## Questions
 
